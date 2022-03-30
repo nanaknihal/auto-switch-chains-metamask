@@ -2,5 +2,5 @@
 automatically switches metamask to a desired chain
 
 usage: 
-let desiredChain = 'mumbai'
-switchToChain(desiredChain)
+```let desiredChain = 'mumbai'
+switchToChain(desiredChain)```
